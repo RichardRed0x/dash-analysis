@@ -1,0 +1,979 @@
+name,type,flags,date,owner,yes,no,abstain,net,payments_made,total_payments,monthly_payment,total_allocated
+"*Salary for DASH core team*
+     (Details | Comments [25])",Core Dev,,2015-08-27,eduffield,1531,112,0,1419,18,100,1176,21168
+"*DASH public awareness (please downvote this proposal!)*
+     (Details | Comments [21])",Marketing,,2015-08-27,eduffield,888,1246,0,-358,9,100,2156,19404
+"*reimbursement*
+     (Details | Comments [1])",Core Dev,Reimbursement,2015-08-27,eduffield,1434,23,0,1411,1,1,2529,2529
+"*compensate-testers*
+     (Details | Comments [0])",Non-Core Dev,,2015-09-04,,198,342,0,-144,0,12,1588,0
+"*DASH on the Aquidaba Tennis Open*
+     (Details | Comments [16])",Marketing,,2015-09-19,Raganius,864,75,0,789,1,1,257.68,257.68
+"*Electrum Client/Server Implementation*
+     (Details | Comments [0])",Non-Core Dev,,2015-09-23,eduffield,1132,2,0,1130,1,1,308.65,308.65
+"*New website design and backend development*
+     (Details | Comments [3])",Support/Docs,,2015-09-23,eduffield,1106,26,0,1080,1,1,2024,2024
+"*Establishment of the DASH Foundation*
+     (Details | Comments [0])",Organization,Masternode-aid,2015-09-23,eduffield,1074,14,0,1060,1,1,1417,1417
+"*Liquidity Provider*
+     (Details | Comments [14])",Liquidity,,2015-09-25,eduffield,828,92,0,736,1,1,127,127
+"*Dashwhale basic funding*
+     (Details | Comments [51])",Support/Docs,Masternode-aid,2015-10-10,rango,205,498,0,-293,0,6,160,0
+"*Amsterdam Bitcoin Wednesday Promotional Costs*
+     (Details | Comments [6])",Marketing,,2015-10-29,eduffield,777,19,0,758,1,1,438.5,438.5
+"*3rd Latin American Bitcoin Conference 2015*
+     (Details | Comments [1])",Events,,2015-10-29,eduffield,722,29,0,693,1,1,1787.79,1787.79
+"*The North American Bitcoin Conference*
+     (Details | Comments [0])",Events,,2015-10-29,eduffield,800,28,0,772,1,1,1952.23,1952.23
+"*Christmas lottery*
+     (Details | Comments [15])",Marketing,,2015-11-22,rango,384,564,0,-180,0,1,40,0
+"*Liquidity providers (pls vote down)*
+     (Details | Comments [6])",Liquidity,mistake,2015-12-01,eduffield,818,1014,0,-196,2,12,140,280
+"*Dash.org domain name*
+     (Details | Comments [3])",Support/Docs,,2015-12-01,eduffield,1661,242,0,1419,3,4,2100,6300
+"*laBITconf video advertising*
+     (Details | Comments [5])",Marketing,,2015-12-01,eduffield,700,29,0,671,0,1,1500,0
+"*Dash Sponsorship in 10 episodes of The Daily Decrypt*
+     (Details | Comments [45])",Marketing,,2015-12-22,TheDailyDecrypt,1121,487,0,634,1,1,150,150
+"*DASH-Lamassu ATM Integration*
+     (Details | Comments [44])",Integration,,2015-12-28,eduffield,1472,481,0,991,0,12,610.26,0
+"*Transform PR - Michael Terpin*
+     (Details | Comments [28])",Marketing,,2015-12-28,eduffield,1054,1135,0,-81,1,3,1100,1100
+"*Instantx Soda Machine (please vote no on this proposal!)*
+     (Details | Comments [13])",Integration,,2015-12-30,oaxacawizards,347,689,0,-342,0,1,650,0
+"*Please vote no on this proposal!*
+     (Details | Comments [3])",Misc,mistake,2016-01-02,,6,261,0,-255,0,1,591,0
+"*Instantx Soda Machine (correct proposal)*
+     (Details | Comments [6])",Integration,,2016-01-02,eduffield,1176,522,0,654,1,1,590,590
+"*Block Size Limitation Increase*
+     (Details | Comments [10])",Governance,,2016-01-18,eduffield,2129,18,0,2111,1,1,5,5
+"*Dash Vs. Bitcoin Video (poll)*
+     (Details | Comments [19])",Marketing,,2016-01-20,jarroyo,552,404,0,148,0,1,5,0
+"*Vendor-Experience*
+     (Details | Comments [95])",Integration,,2016-01-27,Solarminer,514,690,0,-176,0,99,729,0
+"*Satoshi Roundtable Conference*
+     (Details | Comments [29])",Events,,2016-01-28,eduffield,1040,77,0,963,2,2,717.7,1435.4
+"*Build-DASH-Company*
+     (Details | Comments [5])",Support/Docs,,2016-01-28,r4vani,0,326,0,-326,0,36,7000,0
+"*Reimbursement Proposal for the Dash N Drink Instantx Miami Demo*
+     (Details | Comments [34])",Integration,Reimbursement,2016-01-31,oaxacawizards,1886,227,0,1659,3,3,100,300
+"*Wifi-Portal for Retail Instore Purchasing*
+     (Details | Comments [7])",Integration,,2016-02-02,Solarminer,1203,115,0,1088,1,1,200,200
+"*Catch Leftover Funding - 64*
+     (Details | Comments [1])",Misc,Catch-funds,2016-02-02,eduffield,28,343,0,-315,0,48,64,0
+"*Catch Leftover Funding - 256*
+     (Details | Comments [1])",Misc,Catch-funds,2016-02-02,eduffield,48,396,0,-348,0,48,256,0
+"*Catch Leftover Funding - 16*
+     (Details | Comments [1])",Misc,Catch-funds,2016-02-02,eduffield,53,390,0,-337,0,48,16,0
+"*Catch Leftover Funding - 512*
+     (Details | Comments [1])",Misc,Catch-funds,2016-02-02,eduffield,55,395,0,-340,0,48,512,0
+"*Catch Leftover Funding - 128*
+     (Details | Comments [1])",Misc,Catch-funds,2016-02-02,eduffield,40,360,0,-320,0,48,128,0
+"*Catch Leftover Funding - 1024*
+     (Details | Comments [16])",Misc,Catch-funds,2016-02-02,eduffield,41,368,0,-327,0,48,1024,0
+"*DASH at Anarcapulco - Presentation by Juan S. Galt*
+     (Details | Comments [8])",Events,,2016-02-03,JuanSGalt,1552,49,0,1503,0,1,140,0
+"*Vote NO...error in amount*
+     (Details | Comments [3])",Misc,,2016-02-04,ddink7,0,249,0,-249,0,1,700,0
+"*Dash Core Team Xtra Payment (Corrected)*
+     (Details | Comments [6])",Core Dev,Catch-funds,2016-02-04,ddink7,762,17,0,745,0,1,625,0
+"*Budget System v2 / Transform PR*
+     (Details | Comments [31])",Marketing,Process,2016-02-08,eduffield,1087,131,0,956,1,1,50,50
+"*Proof of Labour Improvement Proposal*
+     (Details | Comments [44])",Research,,2016-02-22,juliomoros,496,568,0,-72,0,4,220,0
+"*Dash to Fiat Payment Processor*
+     (Details | Comments [39])",Integration,,2016-02-23,DartPayments,839,1187,0,-348,1,3,400,400
+"*Change of X11 mining algorithm because of ASIC*
+     (Details | Comments [33])",Governance,,2016-02-29,SnowHater,40,389,0,-349,0,1,5,0
+"*DASH Ads on Disruptek Media content. Anarchapulco interviews. Juan S. Galt*
+     (Details | Comments [4])",Marketing,,2016-03-02,JuanSGalt,812,3,0,809,1,1,55,55
+"*Dash World: Evolution in Marketing*
+     (Details | Comments [14])",Marketing,,2016-03-09,GreyGhost,631,747,0,-116,0,4,1175,0
+"*DashTrader.info: **Updated** 3/13*
+     (Details | Comments [10])",Support/Docs,,2016-03-10,koampapapa2,102,459,0,-357,0,1,1300,0
+"*Dash Permanently added to ROKOS flavors releases for Pi 2, Pi 3, PINE64 
+and new IoT devices*
+     (Details | Comments [24])",Integration,,2016-03-12,OKtoshi,1015,47,0,968,1,1,95,95
+"*DashPayments for WooCommerce ?? WordPress Plugin*
+     (Details | Comments [11])",Integration,,2016-03-16,nmarley,982,109,0,873,1,1,788,788
+"*Dash Debit Card integration to SpectroCoin.com*
+     (Details | Comments [23])",Integration,,2016-03-20,VytautasK,1222,303,0,919,1,1,950,950
+"*Evolution Specification and Development*
+     (Details | Comments [11])",Core Dev,,2016-03-24,eduffield,1111,13,0,1098,3,3,150,450
+"*Electrum Maintenance*
+     (Details | Comments [22])",Non-Core Dev,,2016-03-24,eduffield,1085,98,0,987,3,3,45.8,137.4
+"*Alex-ru promotional initiatives #1*
+     (Details | Comments [6])",Marketing,,2016-03-28,alex-ru,624,74,0,550,1,1,250,250
+"*Reimbursements for acquisition and setup of Dashtalk*
+     (Details | Comments [24])",Organization,,2016-03-29,babygiraffe,750,263,0,487,0,1,1036.74,0
+"*Dash.org purchase - December Payment Replacement*
+     (Details | Comments [13])",Support/Docs,,2016-03-29,babygiraffe,868,51,0,817,3,3,701.67,2105.01
+"*Dash World: Evolution in Marketing V.2*
+     (Details | Comments [19])",Marketing,,2016-03-29,GreyGhost,1051,405,0,646,4,4,775,3100
+"*Public Awareness Funds Reallocation*
+     (Details | Comments [4])",Integration,,2016-03-31,babygiraffe,816,16,0,800,1,1,5,5
+"*Liquidity Providers v2*
+     (Details | Comments [4])",Liquidity,,2016-04-14,babygiraffe,1238,129,0,1109,2,2,48.87,97.74
+"*Liquidity Provider reimbursement proposal*
+     (Details | Comments [8])",Liquidity,Reimbursement,2016-04-14,yidakee,177,454,0,-277,0,1,565,0
+"*Resubmittal for Reimbursement for Acquisition & Setup of Dashtalk*
+     (Details | Comments [6])",Support/Docs,Reimbursement,2016-04-15,babygiraffe,1105,38,0,1067,1,1,1053.07,1053.07
+"*Dash Electrum Masternode / Trezor Support*
+     (Details | Comments [2])",Integration,,2016-04-30,babygiraffe,1135,19,0,1116,1,1,158.37,158.37
+"*Electrum Masternode / Trezor Maintenance*
+     (Details | Comments [6])",Integration,,2016-05-09,babygiraffe,828,16,0,812,0,1,42.48,0
+"*Electrum KeepKey Hardware Wallet Integration*
+     (Details | Comments [3])",Integration,,2016-05-21,babygiraffe,886,30,0,856,0,1,104.01,0
+"*WebEx Premium Subscription*
+     (Details | Comments [1])",Organization,,2016-05-22,babygiraffe,857,7,0,850,1,1,78.68,78.68
+"*d10e Conference Sponsorship*
+     (Details | Comments [4])",Marketing,,2016-05-27,babygiraffe,871,3,0,868,1,1,490.49,490.49
+"*Hardware Wallets For Build And Test*
+     (Details | Comments [5])",Organization,,2016-06-04,babygiraffe,917,1,0,916,1,1,43.68,43.68
+"*Dash's Very Own YouTube Show*
+     (Details | Comments [22])",Marketing,,2016-06-08,amanda_b_johnson,1439,24,0,1415,3,3,123,369
+"*De-activate YouTube.com/DarkcoinTV*
+     (Details | Comments [25])",Marketing,,2016-06-11,amanda_b_johnson,504,361,0,143,0,1,1,0
+"*d10e Conference Travel & Lodging*
+     (Details | Comments [12])",Events,,2016-06-14,babygiraffe,1053,20,0,1033,1,1,449.69,449.69
+"*Tao: Community Coordinator*
+     (Details | Comments [35])",Support/Docs,,2016-06-17,TaoOfSatoshi,606,551,0,55,0,6,61,0
+"*Liquidity Providers v3*
+     (Details | Comments [0])",Liquidity,,2016-06-17,babygiraffe,817,129,0,688,1,1,40.59,40.59
+"*Community management for growth*
+     (Details | Comments [8])",Support/Docs,,2016-06-18,Comodore,67,377,0,-310,0,3,195,0
+"*Integration With A Flagship Merchant*
+     (Details | Comments [18])",Adoption,,2016-06-18,babygiraffe,1036,31,0,1005,1,1,603.59,603.59
+"*Evolution Development - X11 Hash Port*
+     (Details | Comments [8])",Non-Core Dev,,2016-06-19,babygiraffe,1000,0,0,1000,1,1,609.45,609.45
+"*Infrastructure - Basic Needs*
+     (Details | Comments [6])",Integration,,2016-06-19,babygiraffe,827,33,0,794,1,1,416.02,416.02
+"*Marketing - International Outreach & Promotion*
+     (Details | Comments [0])",Marketing,,2016-06-20,babygiraffe,882,30,0,852,1,1,270.57,270.57
+"*Business Development Support And Integration*
+     (Details | Comments [7])",Marketing,,2016-06-20,babygiraffe,894,18,0,876,1,1,742.92,742.92
+"*Google Apps For Work Subscriptions*
+     (Details | Comments [7])",Organization,,2016-06-21,babygiraffe,835,27,0,808,1,1,41.9,41.9
+"*Evolution Development - Graphic Design*
+     (Details | Comments [1])",Non-Core Dev,,2016-06-21,babygiraffe,808,20,0,788,1,1,955.17,955.17
+"*Evolution Development - Graphic Design Pt. 2*
+     (Details | Comments [4])",Non-Core Dev,,2016-06-28,babygiraffe,768,10,0,758,1,1,352.97,352.97
+"*Conference Travel - General*
+     (Details | Comments [4])",Events,,2016-06-28,babygiraffe,793,29,0,764,1,1,105,105
+"*PR - Fall Campaign Pre-Funding*
+     (Details | Comments [16])",Marketing,,2016-06-28,babygiraffe,756,131,0,625,1,1,133.98,133.98
+"*Core Development - 12.2 DashDrive Developers*
+     (Details | Comments [0])",Core Dev,,2016-07-15,babygiraffe,803,3,0,800,1,1,430.37,430.37
+"*Proposal: Marketing - International Outreach & Promotion (Aug)*
+     (Details | Comments [4])",Marketing,,2016-07-15,babygiraffe,711,35,0,676,1,1,288.58,288.58
+"*Proposal: Infrastructure - Liquidity Providers (Aug)*
+     (Details | Comments [0])",Liquidity,,2016-07-15,babygiraffe,596,72,0,524,1,1,43.67,43.67
+"*Proposal: Evolution Development - Subcontractors*
+     (Details | Comments [0])",Non-Core Dev,,2016-07-15,babygiraffe,816,0,0,816,1,1,1293.99,1293.99
+"*Infrastructure - Datacenter (Aug)*
+     (Details | Comments [3])",Organization,,2016-07-15,babygiraffe,733,3,0,730,1,1,57.85,57.85
+"*Dash Across America Crypto Only Promotional Road Trip*
+     (Details | Comments [35])",Marketing,,2016-07-17,sovbtc,837,226,0,611,1,1,700,700
+"*Dash World - Private & Secure Communications with DASH as Payment 
+Processor*
+     (Details | Comments [11])",Integration,,2016-07-18,GreyGhost,83,426,0,-343,0,4,320.93,0
+"*[Updated] Anonymous usages for Dash Masternode network.*
+     (Details | Comments [35])",Integration,Masternode-aid,2016-07-19,quantumexplorer,612,309,0,303,0,1,755,0
+"*Business Development (Aug)*
+     (Details | Comments [2])",Marketing,,2016-07-23,babygiraffe,1093,6,0,1087,1,1,651.41,651.41
+"*Dash to Sponsor the Fifth Annual Jackalope Freedom Festival*
+     (Details | Comments [32])",Marketing,,2016-07-23,UndocumentedHuman,881,328,0,553,1,1,350,350
+"*PR Fall Campaign (Aug)*
+     (Details | Comments [11])",Marketing,,2016-07-23,babygiraffe,726,90,0,636,1,1,651.41,651.41
+"*Unicorn Rainbo Ass (URA)*
+     (Details | Comments [26])",Misc,,2016-07-24,unicornrainboass,49,385,0,-336,0,1,69,0
+"*Applications (Work Apps & Accounting)*
+     (Details | Comments [1])",Organization,,2016-07-26,babygiraffe,660,6,0,654,1,1,444.33,444.33
+"*Proposal: Conference & Travel (Aug)*
+     (Details | Comments [7])",Events,,2016-07-27,babygiraffe,1309,8,0,1301,1,1,199.75,199.75
+"*Slack Tipbot And Community Engagement*
+     (Details | Comments [19])",Integration,,2016-07-29,Solarminer,705,1122,0,-417,2,3,225,450
+"*Core Development - Technical Writer For Core Documentation (Downvote)*
+     (Details | Comments [9])",Support/Docs,mistake,2016-07-29,babygiraffe,608,510,0,98,0,1,482.59,0
+"*HCPP Conference in Prague and preparation for it with meetup in August*
+     (Details | Comments [10])",Events,,2016-07-30,Comodore,851,134,0,717,2,2,80,160
+"*Dash Foundation Donation*
+     (Details | Comments [6])",Organization,,2016-08-02,babygiraffe,648,192,0,456,0,1,124.17,0
+"*Nairobi Cryptocurrency Symposium*
+     (Details | Comments [15])",Events,,2016-08-14,Amazing,805,16,0,789,1,1,10,10
+"*Amanda & Pete Go to Atlanta*
+     (Details | Comments [12])",Events,,2016-08-15,amanda_b_johnson,855,12,0,843,1,1,91,91
+"*Dash on Warsaw Block meetup on 25 August 2016*
+     (Details | Comments [4])",Events,,2016-08-17,kot,1047,11,0,1036,1,1,23,23
+"*Marketing, International Outreach & Promotion (Sep.)*
+     (Details | Comments [5])",Marketing,,2016-08-18,babygiraffe,1033,52,0,981,1,1,211.87,211.87
+"*PR Fall Campaign (Sept)*
+     (Details | Comments [2])",Marketing,,2016-08-19,babygiraffe,819,55,0,764,1,1,464.66,464.66
+"*Infrastructure - Liquidity Providers (Sept)*
+     (Details | Comments [5])",Liquidity,,2016-08-19,babygiraffe,954,66,0,888,1,1,27.98,27.98
+"*Core Development - 12.2 DashDrive Developers (Sept)*
+     (Details | Comments [5])",Core Dev,,2016-08-19,babygiraffe,1117,7,0,1110,1,1,355.74,355.74
+"*Infrastructure - Datacenter (Sept)*
+     (Details | Comments [0])",Integration,,2016-08-19,babygiraffe,1054,8,0,1046,1,1,51.73,51.73
+"*Core Development - Electrum & Sentinel (Sept)*
+     (Details | Comments [5])",Core Dev,,2016-08-19,babygiraffe,1165,3,0,1162,1,1,66.17,66.17
+"*Conference & Travel (Sept)*
+     (Details | Comments [38])",Events,,2016-08-20,babygiraffe,1081,91,0,990,1,1,1044.1,1044.1
+"*Dash ATM Master Compliance Program - Phase I*
+     (Details | Comments [31])",Integration,,2016-08-21,babygiraffe,1095,280,0,815,1,1,748.99,748.99
+"*Dash to Adoption - 100 Businesses in 100 Days*
+     (Details | Comments [53])",Adoption,,2016-08-24,sovbtc,1096,227,0,869,3,3,333.33,999.99
+"*Multimedia Community Outreach*
+     (Details | Comments [35])",Marketing,,2016-08-27,TaoOfSatoshi,866,496,0,370,0,6,50,0
+"*Austin, TX Outreach  Sponsor Brave New Books Stage and Decentralized Tech 
+Meetup*
+     (Details | Comments [15])",Marketing,,2016-08-27,catherinebleish,945,188,0,757,3,3,100,300
+"*DASH-E-AIR the Electric airline run entirely on DASH and Electricity*
+     (Details | Comments [24])",Marketing,,2016-08-28,p5yc071c,25,433,0,-408,0,24,850,0
+"*Evolution Development - Subcontractors (Sept)*
+     (Details | Comments [0])",Core Dev,,2016-08-28,babygiraffe,768,27,0,741,1,1,159.45,159.45
+"*dash-adoption-tools*
+     (Details | Comments [7])",Integration,mistake,2016-08-30,,1,409,0,-408,0,3,7000,0
+"*Wall of Coins Dash Integration*
+     (Details | Comments [73])",Adoption,,2016-08-30,rgenito,263,404,0,-141,0,3,2334,0
+"*Legal (Sept)*
+     (Details | Comments [34])",Organization,Masternode-aid,2016-08-30,babygiraffe,1308,454,0,854,1,1,1497.51,1497.51
+"*Odoo ?? Dash module*
+     (Details | Comments [13])",Integration,,2016-09-01,JZA,14,416,0,-402,0,5,950,0
+"*Bill Payments and Bank Transfers to 45,000 billers in Australia*
+     (Details | Comments [16])",Integration,,2016-09-05,Living_Rm_of_Satoshi,997,32,0,965,1,1,1000,1000
+"*Sponsorship for The Crypto Show and Unsung: Hacking Hunger*
+     (Details | Comments [45])",Marketing,,2016-09-07,Danny_Somthin,821,122,0,699,0,3,197,0
+"*Renew DASH: Detailed for 6 Months*
+     (Details | Comments [27])",Marketing,,2016-09-08,amanda_b_johnson,881,50,0,831,5,6,123,615
+"*Odoo ?? DASH crypto module*
+     (Details | Comments [41])",Integration,,2016-09-10,gmlp,366,159,0,207,0,5,362,0
+"*Infrastructure - Liquidity Providers (Oct)*
+     (Details | Comments [3])",Liquidity,,2016-09-16,babygiraffe,772,78,0,694,1,1,28.92,28.92
+"*DASH BILLBOARDS IN AFRICA*
+     (Details | Comments [18])",Marketing,,2016-09-17,coindup,5,328,0,-323,0,4,200,0
+"*Core Development - 12.2 DashDrive Developers (Oct)*
+     (Details | Comments [5])",Core Dev,,2016-09-19,babygiraffe,1120,234,0,886,1,1,600.52,600.52
+"*Core Development - Electrum & Sentinel (Oct)*
+     (Details | Comments [2])",Core Dev,,2016-09-19,babygiraffe,779,49,0,730,1,1,83.64,83.64
+"*Evolution Development - Subcontractors (Oct)*
+     (Details | Comments [0])",Core Dev,,2016-09-19,babygiraffe,790,87,0,703,1,1,250.39,250.39
+"*The Dash Times*
+     (Details | Comments [10])",Marketing,,2016-09-20,elishagh1,784,69,0,715,1,1,26,26
+"*Marketing, International Outreach, & Promotion (October)*
+     (Details | Comments [6])",Marketing,,2016-09-20,babygiraffe,1053,298,0,755,1,1,231.26,231.26
+"*PR Fall Campaign (Oct)*
+     (Details | Comments [12])",Marketing,,2016-09-21,babygiraffe,1061,272,0,789,1,1,527.15,527.15
+"*Blockchain: Money conference in London (6-7 NOV 2016)*
+     (Details | Comments [22])",Events,,2016-09-21,kot,996,446,0,550,0,1,1160,0
+"*Dash Mobile - Denver Crypto Tour*
+     (Details | Comments [18])",Marketing,,2016-09-22,UndocumentedHuman,206,232,0,-26,0,1,350,0
+"*All Things Open Conference 2016*
+     (Details | Comments [10])",Events,,2016-09-22,perrywoodin,868,30,0,838,1,1,94.03,94.03
+"*TDG's Decentralized ""DigitalCash"" Social Media Outreach & Marketing 
+Campaign*
+     (Details | Comments [11])",Marketing,,2016-09-22,TheDashGuy,359,428,0,-69,0,3,130,0
+"*Legal Part 2 (Oct)*
+     (Details | Comments [16])",Organization,,2016-09-24,babygiraffe,1275,444,0,831,1,1,1733.46,1733.46
+"*Dash University*
+     (Details | Comments [8])",Marketing,,2016-09-26,dashuniversity,0,408,0,-408,0,1,700,0
+"*Dash Force - Dash Community Energizer*
+     (Details | Comments [43])",Marketing,,2016-09-27,InTheWoods,423,830,0,-407,0,6,280,0
+"*Business Development (October)*
+     (Details | Comments [1])",Marketing,,2016-09-27,babygiraffe,1006,245,0,761,1,1,361.77,361.77
+"*OTC Marketplace with Wall of Coins*
+     (Details | Comments [37])",Integration,,2016-09-27,rgenito,319,323,0,-4,0,1,2000,0
+"*New merchants, localizations and business developement for Dash  
+presentation in Bratislava*
+     (Details | Comments [9])",Marketing,,2016-09-28,Comodore,628,74,0,554,1,1,145,145
+"*Dashous - Like localbitcoins, for Dash*
+     (Details | Comments [48])",Integration,,2016-10-10,brettclanton001,955,57,0,898,0,2,95.5,0
+"*Infrastructure - Liquidity Providers (Nov.)*
+     (Details | Comments [8])",Liquidity,,2016-10-17,babygiraffe,609,77,0,532,1,1,32.05,32.05
+"*Dash Community*
+     (Details | Comments [39])",Support/Docs,,2016-10-18,rion,591,172,0,419,1,1,250,250
+"*Core Development - Electrum & Sentinel (Nov)*
+     (Details | Comments [2])",Core Dev,,2016-10-21,babygiraffe,726,27,0,699,1,1,83.64,83.64
+"*For the Community*
+     (Details | Comments [11])",Events,,2016-10-21,UndocumentedHuman,538,161,0,377,0,1,210,0
+"*Business Development (Nov)*
+     (Details | Comments [4])",Marketing,,2016-10-22,babygiraffe,609,38,0,571,1,1,196.56,196.56
+"*Marketing, International Outreach, & Promotion (Nov)*
+     (Details | Comments [0])",Marketing,,2016-10-22,babygiraffe,656,40,0,616,1,1,250.84,250.84
+"*PR Fall Campaign (Nov)*
+     (Details | Comments [2])",Marketing,,2016-10-24,babygiraffe,694,34,0,660,1,1,593,593
+"*Promoting Dash in Six Southern African Countries*
+     (Details | Comments [25])",Marketing,,2016-10-26,LibertyWarrior,659,21,0,638,1,1,108,108
+"*Business Development - Wall of Coins Integration*
+     (Details | Comments [37])",Marketing,Escrow,2016-10-26,babygiraffe,1013,59,0,954,0,3,1993.21,0
+"*Marketing - Brand & Design*
+     (Details | Comments [9])",Marketing,,2016-10-28,babygiraffe,668,59,0,609,1,1,355,355
+"*'Decentralize All the Profits!' expense reimbursement*
+     (Details | Comments [5])",Marketing,,2016-10-29,amanda_b_johnson,712,34,0,678,1,1,75,75
+"*Barcelona Bitcoin Meetup*
+     (Details | Comments [5])",Events,,2016-10-30,fernando,739,9,0,730,1,1,47,47
+"*Sponsorship of The Cryptoverse Podcast*
+     (Details | Comments [48])",Marketing,,2016-11-04,chrisconey,659,239,0,420,3,3,133.33,399.99
+"*Dash Force Reloaded??.Under New Management!*
+     (Details | Comments [20])",Marketing,,2016-11-06,Mastermined,735,27,0,708,0,1,225,0
+"*Real Spanish & Russian Translations for DASH: Detailed*
+     (Details | Comments [6])",Support/Docs,,2016-11-08,amanda_b_johnson,822,5,0,817,0,1,38,0
+"*DashCore Development (December)*
+     (Details | Comments [3])",Core Dev,,2016-11-23,babygiraffe,861,5,0,856,0,1,372.79,0
+"*Evolution Development - Subcontractors (Dec)*
+     (Details | Comments [1])",Core Dev,,2016-11-23,babygiraffe,821,10,0,811,0,1,670.36,0
+"*Marketing, International Outreach, & Promotion (Dec)*
+     (Details | Comments [2])",Marketing,,2016-11-23,babygiraffe,725,6,0,719,0,1,305.72,0
+"*Conferences & Travel - impact CEE*
+     (Details | Comments [2])",Events,,2016-11-25,babygiraffe,795,15,0,780,0,1,175.69,0
+"*Bitcuners - Help grow our local crypto user group!!*
+     (Details | Comments [26])",Marketing,,2016-11-25,JZA,587,172,0,415,3,3,16,48
+"*Infrastructure - Datacenter (December)*
+     (Details | Comments [4])",Organization,,2016-11-26,babygiraffe,858,1,0,857,0,1,95,0
+"*Public Relations (December)*
+     (Details | Comments [3])",Marketing,,2016-11-27,babygiraffe,808,20,0,788,0,1,677.27,0
+"*Conferences & Travel - TNABC*
+     (Details | Comments [6])",Events,,2016-11-29,babygiraffe,759,9,0,750,0,1,583.66,0
+"*Privacy first vs transparency first*
+     (Details | Comments [65])",Governance,,2016-12-04,GrandMasterDash,95,473,0,-378,0,1,1,0
+"*Simple-presentation*
+     (Details | Comments [30])",Marketing,,2016-12-05,DanyDash,552,119,0,433,0,1,140,0
+"*Real Mandarin & Cantonese Translations for DASH: Detailed*
+     (Details | Comments [10])",Support/Docs,,2016-12-07,amanda_b_johnson,665,9,0,656,0,1,53,0
+"*Dash Across The World*
+     (Details | Comments [16])",Marketing,,2016-12-08,dash-in-canada,365,324,0,41,2,3,180,360
+"*Infrastructure - Datacenter (Jan)*
+     (Details | Comments [5])",Organization,,2016-12-19,babygiraffe,734,3,0,731,0,1,67.72,0
+"*Marketing - International Outreach & Promotion (Jan)*
+     (Details | Comments [0])",Marketing,,2016-12-19,babygiraffe,630,6,0,624,0,1,207.09,0
+"*Public Relations (Jan)*
+     (Details | Comments [0])",Marketing,,2016-12-20,babygiraffe,787,23,0,764,0,1,589.85,0
+"*Cash Alternative TV Equipment*
+     (Details | Comments [21])",Marketing,,2016-12-21,TaoOfSatoshi,646,59,0,587,0,1,61.5,0
+"*Dash Core for Fedora, CentOS, and Red Hat Enterprise LInux*
+     (Details | Comments [13])",Non-Core Dev,,2016-12-22,t0dd,803,20,0,783,2,3,33,66
+"*Dash Offices at SkySong*
+     (Details | Comments [16])",Organization,,2016-12-22,babygiraffe,805,22,0,783,0,1,209.43,0
+"*DashForce Reloaded 1-4-17*
+     (Details | Comments [14])",Marketing,,2016-12-24,Mastermined,746,69,0,677,2,3,300,600
+"*DashCore Development (Jan)*
+     (Details | Comments [2])",Core Dev,,2016-12-27,babygiraffe,728,5,0,723,0,1,334.64,0
+"*Evolution Development - Subcontractors (Jan)*
+     (Details | Comments [1])",Core Dev,,2016-12-27,babygiraffe,700,3,0,697,0,1,621.66,0
+"*Business Development (Jan)*
+     (Details | Comments [3])",Marketing,,2016-12-27,babygiraffe,700,327,0,373,0,1,607.41,0
+"*Dash Payment Provider Contest*
+     (Details | Comments [6])",Integration,,2016-12-28,GethHead,52,467,0,-415,1,2,200,200
+"*Conference Materials*
+     (Details | Comments [5])",Marketing,,2016-12-29,babygiraffe,645,3,0,642,0,1,211.78,0
+"*DashPay Point-Of-Sale*
+     (Details | Comments [22])",Integration,,2017-01-04,kodaxx,926,6,0,920,1,1,165,165
+"*Dash Chat*
+     (Details | Comments [26])",Support/Docs,,2017-01-08,Roberto_Azar,704,163,0,541,1,1,23,23
+"*Help Me Share Dash with Millions on Facebook and YouTube!*
+     (Details | Comments [25])",Marketing,,2017-01-09,JerryBanfield,40,446,0,-406,0,1,497,0
+"*Renew Sponsorship of The Crypto Show and Unsung Hacking Hunger*
+     (Details | Comments [22])",Marketing,,2017-01-10,Danny_Somthin,725,91,0,634,1,3,137,137
+"*All Subtitles for DASH: Detailed, Now Cheaper!*
+     (Details | Comments [7])",Support/Docs,,2017-01-10,amanda_b_johnson,693,13,0,680,1,2,50,50
+"*Promote Anonymous Dash Payments to 200,000 Hackers a Month on YouTube!*
+     (Details | Comments [20])",Marketing,,2017-01-11,JerryBanfield,166,439,0,-273,1,6,49,49
+"*Miami NABTC Travel Cost for 4th attendee*
+     (Details | Comments [11])",Events,,2017-01-19,PhilaDASHia,510,29,0,481,1,1,66,66
+"*Dash Retail Ambassador*
+     (Details | Comments [13])",Marketing,,2017-01-19,paleo,21,378,0,-357,1,3,507,507
+"*Public Relations (Feb)*
+     (Details | Comments [3])",Marketing,,2017-01-22,babygiraffe,656,14,0,642,1,1,404.71,404.71
+"*Marketing - International Outreach & Promotion (Feb)*
+     (Details | Comments [0])",Marketing,,2017-01-22,babygiraffe,603,5,0,598,1,1,178.21,178.21
+"*Amanda to Present Evolution at Anarchapulco's ??Cryptopulco??*
+     (Details | Comments [11])",Events,,2017-01-22,amanda_b_johnson,690,5,0,685,1,1,139,139
+"*Conferences & Travel - ICE Totally Gaming*
+     (Details | Comments [8])",Events,,2017-01-24,babygiraffe,656,15,0,641,1,1,287.09,287.09
+"*Proposal: Dash Offices (Feb)*
+     (Details | Comments [5])",Organization,,2017-01-25,babygiraffe,788,13,0,775,1,1,148.23,148.23
+"*DashCore Development (Feb)*
+     (Details | Comments [0])",Core Dev,,2017-01-25,babygiraffe,692,5,0,687,1,1,346.31,346.31
+"*Promote Dash by Sponsoring Future Tech Podcast*
+     (Details | Comments [7])",Marketing,,2017-01-25,haplopelma,568,15,0,553,1,3,20,20
+"*Evo Development - Subcontractors (Feb)*
+     (Details | Comments [1])",Core Dev,,2017-01-25,babygiraffe,731,5,0,726,1,1,801.29,801.29
+"*Infrastructure - Datacenter (Feb)*
+     (Details | Comments [1])",Organization,,2017-01-26,babygiraffe,701,5,0,696,1,1,74.87,74.87
+"*Admin - HR Consult*
+     (Details | Comments [3])",Organization,,2017-01-26,babygiraffe,732,30,0,702,1,1,360.06,360.06
+"*Business Development - Major Exchange*
+     (Details | Comments [69])",Marketing,,2017-01-27,babygiraffe,896,178,0,718,1,1,2183.06,2183.06
+"*10 New Dash Video Tutorials!*
+     (Details | Comments [18])",Marketing,,2017-01-27,JerryBanfield,527,14,0,513,0,1,29,0
+"*TEST-PROPOSAL-01*
+     (Details | Comments [17])",Misc,,2017-02-18,tungfa,246,345,61,-99,0,1,5,0
+"*10 New Dash Video Tutorials for 12.1!*
+     (Details | Comments [29])",Marketing,,2017-02-19,JerryBanfield,756,207,5,549,1,1,29,29
+"*DASH: Detailed  New Weekly 'Spotlight' Series*
+     (Details | Comments [45])",Marketing,,2017-02-19,amanda_b_johnson,769,26,3,743,3,3,215,645
+"*Bitcuners Meetup Proposal*
+     (Details | Comments [59])",Marketing,,2017-02-20,JZA,1061,487,76,574,2,3,16,32
+"*Wallet Backup Restoral Video*
+     (Details | Comments [9])",Support/Docs,,2017-02-20,asimsdash,738,25,2,713,1,1,5,5
+"*Dash for Fedora, CentOS, and Red Hat Enterprise LInux (3rd month 12.1 
+transition refile)*
+     (Details | Comments [10])",Non-Core Dev,,2017-02-22,t0dd,478,2,1,476,1,1,38,38
+"*Dash Force: February - May*
+     (Details | Comments [19])",Marketing,,2017-02-23,Mastermined,613,44,11,569,3,3,205,615
+"*Infrastructure - Applications (Mar)*
+     (Details | Comments [1])",Organization,,2017-02-23,babygiraffe,442,1,2,441,1,1,304.55,304.55
+"*Business Development - BlockCypher*
+     (Details | Comments [7])",Marketing,,2017-02-23,babygiraffe,570,25,0,545,1,1,2447.51,2447.51
+"*Cash Alternative TV Equipment*
+     (Details | Comments [15])",Marketing,,2017-02-24,TaoOfSatoshi,422,20,12,402,1,1,29,29
+"*Evo Development - Subcontractors (Mar)*
+     (Details | Comments [1])",Core Dev,,2017-02-24,babygiraffe,521,6,0,515,1,1,919.54,919.54
+"*12.1 Renew Sponsorship of The Crypto Show and Unsung: Hacking Hunger*
+     (Details | Comments [19])",Marketing,,2017-02-24,Danny_Somthin,598,82,15,516,2,2,147,294
+"*Core Team - Admin (March)*
+     (Details | Comments [3])",Organization,,2017-02-24,babygiraffe,609,16,0,593,1,1,966,966
+"*DashCore Development (Mar)*
+     (Details | Comments [0])",Core Dev,,2017-02-24,babygiraffe,586,1,0,585,1,1,196.07,196.07
+"*Dash Offices (March)*
+     (Details | Comments [3])",Organization,,2017-02-25,babygiraffe,553,22,10,531,1,1,59.79,59.79
+"*JavaScript development & Outreach*
+     (Details | Comments [18])",Non-Core Dev,,2017-02-25,rion,559,298,90,261,0,1,85,0
+"*Facebook Ads for Dash Tutorials*
+     (Details | Comments [79])",Marketing,,2017-02-25,JerryBanfield,767,404,21,363,1,1,39,39
+"*Infrastructure - Datacenter (Mar)*
+     (Details | Comments [0])",Organization,,2017-02-25,babygiraffe,549,1,0,548,1,1,42.64,42.64
+"*Bus Dev - BlockCypher Maint*
+     (Details | Comments [0])",Marketing,,2017-02-25,babygiraffe,499,20,5,479,1,1,456.67,456.67
+"*Pizza for Every Arizona State Student*
+     (Details | Comments [24])",Marketing,,2017-03-01,oaxacawizards,257,298,42,-41,0,1,500,0
+"*Conferences & Travel (Mar)*
+     (Details | Comments [3])",Events,,2017-03-01,babygiraffe,393,0,1,393,1,1,340.89,340.89
+"*10 Dash Videos for March!*
+     (Details | Comments [21])",Marketing,,2017-03-01,JerryBanfield,519,141,28,378,0,1,39,0
+"*Professional Help Desk Services*
+     (Details | Comments [21])",Support/Docs,,2017-03-06,GlobalTech,39,710,25,-671,0,3,365,0
+"*Presentation: Comparison of Dash wallets*
+     (Details | Comments [23])",Marketing,,2017-03-07,DanyDash,215,512,28,-297,0,1,45,0
+"*Please Watch Our Preview Video: New Dash Video - Comprehensive Intro And 
+Masternode Tutorial For Non-Technical Investors*
+     (Details | Comments [30])",Marketing,,2017-03-08,DashVideo,115,595,2,-480,0,1,235,0
+"*THE_SHOW_THAT_LAUNCHED_BITCOIN - Please vote down*
+     (Details | Comments [56])",Marketing,,2017-03-12,medgeftl,198,462,47,-264,0,12,100,0
+"*Dash/cryptocurrency conferences throughout Ukraine*
+     (Details | Comments [77])",Events,,2017-03-12,dmitriybtc,517,133,10,384,3,3,20,60
+"*Dash-Australia*
+     (Details | Comments [16])",Support/Docs,,2017-03-13,shorox,195,435,50,-240,0,12,20,0
+"*DASHPayCard - DASH Branded Debit Card  Fiat/Dash Integration*
+     (Details | Comments [65])",Integration,,2017-03-16,CharlieShrem,823,9,9,814,1,1,450,450
+"*DASH For Newbies Blog And Video Series*
+     (Details | Comments [38])",Marketing,,2017-03-17,stellabelle,553,35,10,518,1,1,25,25
+"*A Dash Brand ATM in downtown Lyon (70 Dash)*
+     (Details | Comments [39])",Adoption,,2017-03-19,thesavoyard,565,114,25,451,1,1,70,70
+"*A DASH Branded ATM Systems South Jersey USA*
+     (Details | Comments [27])",Adoption,,2017-03-20,PhilaDASHia,592,103,2,489,1,1,75,75
+"*digex.club's new horizons*
+     (Details | Comments [22])",Marketing,,2017-03-22,Grebenshchikov,660,10,12,650,3,3,25,75
+"*Future Tech Podcast - We're interviewing Dash-associated devs and 
+individuals*
+     (Details | Comments [52])",Marketing,,2017-03-22,haplopelma,216,237,137,-21,0,3,25,0
+"*Full Time Dash Video Production with 51% for Facebook and YouTube Ads!*
+     (Details | Comments [68])",Marketing,,2017-03-25,JerryBanfield,86,543,27,-457,0,2,215,0
+"*Dash Adoption in Industrial Commerce*
+     (Details | Comments [38])",Adoption,,2017-03-27,MrAnderson,199,441,61,-242,0,1,1071,0
+"*Proposal: Core Team Salaries (April)*
+     (Details | Comments [9])",Core Dev,,2017-03-27,babygiraffe,659,0,0,659,1,1,397.06,397.06
+"*Proposal: Core Team Expansion*
+     (Details | Comments [13])",Core Dev,,2017-03-27,babygiraffe,657,39,0,618,1,1,1303.55,1303.55
+"*Proposal: Marketing & Communication (April)*
+     (Details | Comments [9])",Marketing,,2017-03-27,babygiraffe,536,1,4,535,1,1,273.24,273.24
+"*Proposal: Conferences & Travel (April)*
+     (Details | Comments [8])",Events,,2017-03-27,babygiraffe,635,0,6,635,1,1,503.48,503.48
+"*Buy-Sell Dash Directly within the WALLET*
+     (Details | Comments [48])",Integration,,2017-03-28,rgenito,862,391,50,471,1,1,282.68,282.68
+"*Proposal : Dash/Bitcoin improvement protocols*
+     (Details | Comments [15])",Support/Docs,,2017-03-29,quantumexplorer,645,0,9,645,1,1,120,120
+"*Professional Recruiting*
+     (Details | Comments [8])",Organization,,2017-03-29,babygiraffe,596,33,2,563,1,1,566.06,566.06
+"*Dash Debit Card ready by Mid-April*
+     (Details | Comments [63])",Integration,,2017-03-29,julianhosp,490,69,40,421,1,1,305,305
+"*DASH PLAY AWARDS INTERNATIONAL CONTEST*
+     (Details | Comments [25])",Marketing,,2017-03-29,Play_Awards,701,152,157,549,1,1,175,175
+"*Reduce proposal fees from 5 DASH to 0.1 DASH*
+     (Details | Comments [113])",Governance,,2017-04-03,Technologov,257,904,52,-647,0,1,5,0
+"*Dash Wallet for Android - Maintenance and Support #1*
+     (Details | Comments [13])",Non-Core Dev,,2017-04-12,hashengineering,832,5,28,827,3,3,13,39
+"*DASH telegram bot*
+     (Details | Comments [34])",Non-Core Dev,,2017-04-13,balt,863,235,82,628,1,1,120,120
+"*Reduce proposal fees from 5 DASH to 1 DASH*
+     (Details | Comments [68])",Governance,,2017-04-15,Technologov,790,719,13,71,0,1,10,0
+"*-- Pls DownVote -- DASH ROBOCOIN GENERAL BYTES ATM IN HKBITCOINATM SHOP*
+     (Details | Comments [51])",Integration,mistake,2017-04-16,hkbitcoinatm,436,708,51,-272,0,1,88,0
+"*Integrate DASH support into Bitnik Reload*
+     (Details | Comments [3])",Integration,,2017-04-18,PeTrcek,706,59,13,647,1,1,105,105
+"*Marketing happening and Business event*
+     (Details | Comments [54])",Marketing,,2017-04-19,JZA,965,367,42,598,2,2,120,240
+"*Continued Sponsorship of the Crypto Show and Unsung PLUS Cannabis Industry 
+Marketing*
+     (Details | Comments [48])",Marketing,,2017-04-20,Danny_Somthin,866,338,11,528,6,6,119,714
+"*DASH FOR NEWBIES: Medium, YouTube  New Contests*
+     (Details | Comments [21])",Marketing,,2017-04-20,stellabelle,687,184,16,503,3,3,35,105
+"*SkySong Open House Reimbursement*
+     (Details | Comments [11])",Events,Reimbursement,2017-04-21,TrustThyself,776,3,17,773,1,1,20,20
+"*The Dash Expansion at Skatopia*
+     (Details | Comments [28])",Marketing,,2017-04-23,Skatopia,890,183,24,707,3,3,31.48,94.44
+"*Proposal: Alt36  Dash Payment Platform*
+     (Details | Comments [39])",Integration,,2017-04-25,ThirtySix,890,29,61,861,2,2,1731.36,3462.72
+"*Core Team Contractors (May)*
+     (Details | Comments [4])",Core Dev,,2017-04-26,babygiraffe,788,27,0,761,1,1,2702.83,2702.83
+"*Fund more DAOs/Co-ops for treasury scaling?*
+     (Details | Comments [37])",Governance,,2017-04-26,rion,735,185,110,550,1,1,5,5
+"*Bugged proposal - Ignore*
+     (Details | Comments [20])",Misc,mistake,2017-04-27,ampp,940,245,11,695,0,1,194,0
+"*Easy and secure Masternode starting from web browser and hardware wallet*
+     (Details | Comments [29])",Non-Core Dev,Masternode-aid,2017-04-27,Defacto,678,80,12,598,1,1,95,95
+"*HD Wallet Project*
+     (Details | Comments [22])",Non-Core Dev,,2017-04-28,babygiraffe,806,1,6,805,1,1,321.9,321.9
+"*Consensus / Leadership ""Summit""*
+     (Details | Comments [7])",Events,,2017-04-28,babygiraffe,673,19,4,654,1,1,195.79,195.79
+"*Create the first DASH gateway on Ripple*
+     (Details | Comments [81])",Integration,,2017-05-06,ggololicic,769,292,15,477,1,1,150,150
+"*Adaptive Proposal Fees*
+     (Details | Comments [0])",Governance,,2017-05-08,GrandMasterDash,458,393,74,65,0,1,5,0
+"*'Dash Events' Start Up Proof of Concept EDM Event*
+     (Details | Comments [0])",Events,,2017-05-09,tgw5034,253,275,,-22,0,0,60,0
+"*Video blogs, Monthly conferences and News on DASH*
+     (Details | Comments [28])",Marketing,,2017-05-10,sm,697,182,26,515,3,3,23,69
+"*Open Source DASH-Ripple gateway*
+     (Details | Comments [21])",Integration,,2017-05-10,akhavr,740,15,1,725,1,1,134,134
+"*TEDxSLC Sponsorship 2017 Fixed Proposal*
+     (Details | Comments [13])",Events,,2017-05-11,ampp,546,16,11,530,1,1,194,194
+"*BUSINESS INTEGRATION INTO RETAIL SECTOR*
+     (Details | Comments [53])",Integration,,2017-05-11,sm,643,126,15,517,3,3,85,255
+"*Dash Development Team*
+     (Details | Comments [0])",Integration,,2017-05-12,Mizzymax,267,250,,17,0,0,85,0
+"*ABJ to Shift From News Updates to Global Market Outreach*
+     (Details | Comments [44])",Marketing,,2017-05-12,amanda_b_johnson,578,43,48,535,1,1,151,151
+"*Continuous electrum-dash development and support*
+     (Details | Comments [16])",Non-Core Dev,,2017-05-16,akhavr,626,2,4,624,1,1,88,88
+"*Circus City Sponsorship*
+     (Details | Comments [33])",Marketing,sponsorship,2017-05-17,Syntheist,595,154,53,441,2,2,126,252
+"*Dash Force: June - September*
+     (Details | Comments [47])",Marketing,news,2017-05-20,Mastermined,733,114,42,619,3,3,220,660
+"*Dash Branding on Race and Acrobatic airplanes (How I'll promote Dash to 
+200,000 people per month)*
+     (Details | Comments [156])",Marketing,sponsorship,2017-05-20,DashAerosports,877,349,25,528,6,6,287,1722
+"*BuyDash*
+     (Details | Comments [0])",Integration,,2017-05-21,DeltaEngine ,416,335,46,81,0,0,150,0
+"*Dash YouTube Marketing Campaign*
+     (Details | Comments [50])",Marketing,,2017-05-22,bielie,523,96,32,427,1,1,55,55
+"*Core Team Contractors (June)*
+     (Details | Comments [11])",Core Dev,,2017-05-28,babygiraffe,831,5,0,826,1,1,1724.36,1724.36
+"*Grassroots Crowdfunding System*
+     (Details | Comments [0])",Marketing,,2017-06-03,martinrue,273,272,70,1,0,0,85,0
+"*IntegratingDashinAfricanExchange*
+     (Details | Comments [0])",Integration,,2017-06-04,tkembo ,201,431,46,-230,0,0,177,0
+"*DashTreasuryorg-TakingDashto1*
+     (Details | Comments [0])",Governance,treasury,2017-06-05,DashTreasury ,650,332,19,318,0,0,5,0
+"*serbian-pole-sport-championship-2017*
+     (Details | Comments [0])",Marketing,,2017-06-06,aerial_arts,273,276,72,-3,0,0,60,0
+"*DASHBUSTOUR-InformingandpromotingDASHate*
+     (Details | Comments [0])",Marketing,,2017-06-07,bchamz,545,38,33,507,0,0,30,30
+"*Dash Venture Capital*
+     (Details | Comments [0])",Governance,treasury,2017-06-08,campbell,71,334,57,-263,0,0,75,0
+"*AwesomeSongforDash*
+     (Details | Comments [0])",Marketing,,2017-06-11,,288,349,46,-61,0,0,8,0
+"*ProposalFeeReimbursements*
+     (Details | Comments [0])",Marketing,Reimbursement,2017-06-12,DashTreasury,235,368,54,-133,0,0,9.5,0
+"*Should We Continue the Maxed-Out Campaigns?*
+     (Details | Comments [37])",Marketing,,2017-06-12,amanda_b_johnson,575,65,46,510,1,1,5,5
+"*Hiring of Top-level Dash Chief Marketing Officer (CMO)*
+     (Details | Comments [0])",Organization,,2017-06-19,DashTreasury,652,789,61,-137,0,0,5,0
+"*BurntHamsterMinestrone*
+     (Details | Comments [0])",Marketing,,2017-06-19,agnewpickens ,208,338,66,-130,0,0,31,0
+"*Project Jet Plane - YouTube Dash advertising campaign, 10,000 views per 
+day for 60 days.*
+     (Details | Comments [50])",Marketing,sponsorship,2017-06-20,Pieter_Eralith,673,94,22,579,2,2,124.81,249.62
+"*Dash Branding for Sydney Harbour Racing Yacht*
+     (Details | Comments [39])",Marketing,sponsorship,2017-06-20,David_Mason,612,147,31,465,1,1,115,115
+"*Dash Bug Bounty Program by BugCrowd*
+     (Details | Comments [65])",Non-Core Dev,,2017-06-20,jimbursch,977,126,45,851,3,3,330,990
+"*Tuapoma-Maintenance-Support*
+     (Details | Comments [0])",Marketing,,2017-06-20,tuapoma ,86,339,64,-253,0,0,33,0
+"*Proposal: Alt36  Dash Payment Platform [part 2]*
+     (Details | Comments [16])",Integration,,2017-06-23,ThirtySix,738,17,11,721,1,1,1398.76,1398.76
+"*Blockchain Labs Sponsorship*
+     (Details | Comments [9])",Marketing,sponsorship,2017-06-25,babygiraffe,893,5,0,888,1,1,279.06,279.06
+"*Reimbursement for Social Media-Based Outreach Campaigns*
+     (Details | Comments [12])",Marketing,Reimbursement,2017-06-26,amanda_b_johnson,789,10,17,779,1,1,367,367
+"*Money20/20*
+     (Details | Comments [10])",Events,,2017-06-27,babygiraffe,825,3,7,822,1,1,571.71,571.71
+"*Conferences - The Trading Show*
+     (Details | Comments [4])",Events,,2017-06-27,babygiraffe,692,2,7,690,1,1,300.63,300.63
+"*IMPROVED DASH BUS TOUR*
+     (Details | Comments [62])",Marketing,,2017-07-03,bchamz,545,38,33,507,1,1,30,30
+"*Proposal_Evaluation_Committee*
+     (Details | Comments [0])",Governance,Masternode-aid,2017-07-05,Biltong,136,460,51,-324,0,0,45,0
+"*YouTube TV Show About Dash in Portuguese for the Brazilian Market*
+     (Details | Comments [39])",Marketing,,2017-07-11,rambrissi,529,10,45,519,1,1,45,45
+"*DASH Espa?�ï�¿�½�Ã�?�ï�¿�½�Â�±ol, spanish news and podcast show*
+     (Details | Comments [95])",Marketing,,2017-07-14,JZA,492,68,36,424,1,1,57,57
+"*Airline In-flight Media Campaign*
+     (Details | Comments [28])",Marketing,,2017-07-19,Doewapapus,622,60,28,562,1,1,171,171
+"*Understanding the barriers to adoption of Dash by UK businesses and 
+merchants in the Gold and Jewellery Sector (Phase 1)*
+     (Details | Comments [36])",Research,,2017-07-19,CaptAhab,494,74,25,420,1,1,103.3,103.3
+"*DASH CONFERENCE - VENEZUELA*
+     (Details | Comments [13])",Events,,2017-07-22,algodonfranelas,471,1,16,470,1,1,24,24
+"*Dash @ Digital Finance Conference 2017 Frankfurt, Germany*
+     (Details | Comments [32])",Events,,2017-07-23,Macno,688,48,22,640,1,1,155,155
+"*DashStudio-production-Dash-Intro-video*
+     (Details | Comments [0])",Marketing,,2017-07-24,jimbursch ,396,255,58,141,0,0,90,0
+"*LietuvosRytasbasketballclubsupport*
+     (Details | Comments [0])",Marketing,sponsorship,2017-07-24,TonyG ,143,664,38,-521,0,0,500,0
+"*Adverts on Radiolab - UPDATED*
+     (Details | Comments [29])",Marketing,sponsorship,2017-07-25,Syntheist,607,123,34,484,1,1,665,665
+"*Conferences - BTC & Blockchain International Summit*
+     (Details | Comments [13])",Events,,2017-07-26,babygiraffe,764,4,0,760,1,1,279.99,279.99
+"*Dash Conference 2017 (London)*
+     (Details | Comments [18])",Events,,2017-07-28,babygiraffe,681,7,3,674,1,1,1701.48,1701.48
+"*Blockchain & Bitcoin Conference (Stockholm)*
+     (Details | Comments [7])",Events,,2017-07-28,babygiraffe,632,1,3,631,1,1,99.29,99.29
+"*DASHBUSAMBASSADOREXPANSIONTOUR-SanDiegot*
+     (Details | Comments [0])",Marketing,,2017-08-02,bchamz ,466,355,127,111,0,0,75,0
+"*DASH for International Security Exhibition 2017*
+     (Details | Comments [10])",Events,,2017-08-04,sm,654,98,33,556,1,1,166,166
+"*Video blogs, Monthly conferences and News on DASH*
+     (Details | Comments [19])",Marketing,,2017-08-07,sm,847,28,43,819,3,3,22,66
+"*Dash & HBPay Adoption @ Foodtruck Bazaar*
+     (Details | Comments [33])",Adoption,,2017-08-08,jalte,737,268,3,469,2,2,177.5,355
+"*Renew Airline In-Flight Media Campaign with United Airlines added*
+     (Details | Comments [36])",Marketing,,2017-08-09,Doewapapus,850,259,48,591,3,3,328,984
+"*Business integration into POS terminals with Microsoft Azure*
+     (Details | Comments [47])",Integration,,2017-08-09,dmitriybtc,911,145,7,766,3,3,85,255
+"*Let's connect Dash with the most influential EU decision makers*
+     (Details | Comments [81])",Events,,2017-08-13,TonyG,844,220,44,624,1,1,200,200
+"*Dash Force: September - November*
+     (Details | Comments [93])",Marketing,news,2017-08-17,Mastermined,860,149,1,711,3,3,200,600
+"*DashWallet-Exclusive-Dash-Web-Wallet*
+     (Details | Comments [0])",Integration,outsider,2017-08-18,DashWallet,46,745,37,-699,0,0,489,0
+"*DASH Global News site*
+     (Details | Comments [42])",Marketing,news,2017-08-20,JZA,815,70,32,745,3,3,80,240
+"*Dash.red*
+     (Details | Comments [32])",Marketing,,2017-08-20,ec1warc1,892,86,40,806,3,3,31.67,95.01
+"*Dash Nation Slack Upgrade*
+     (Details | Comments [55])",Support/Docs,,2017-08-22,TaoOfSatoshi,967,99,7,868,3,3,33.92,101.76
+"*Bitcart & Dash Advertising Proposal*
+     (Details | Comments [84])",Integration,,2017-08-22,grams,742,157,35,585,3,3,117,351
+"*DASH-GAP*
+     (Details | Comments [73])",Marketing,,2017-08-22,coingun,880,220,41,660,1,1,2000,2000
+"*DASH @ IfAAM Investment Roadshow 2017*
+     (Details | Comments [24])",Events,,2017-08-25,essra,605,10,37,595,1,1,80,80
+"*TEDxSaltLakeCity 2017 Giveaway & Meetup support*
+     (Details | Comments [26])",Events,,2017-08-26,ampp,704,142,25,562,1,1,73,73
+"*Austin Meetup / DASH Stats / 2x Videos on EverydayCrypto*
+     (Details | Comments [24])",Events,,2017-08-26,barclays,611,65,65,546,1,1,43,43
+"*Renew-YouTubePodcastSocialMedia-Brazilia*
+     (Details | Comments [87])",Marketing,,2017-09-08,,872,208,33,664,3,3,62,186
+"*dashelitez*
+     (Details | Comments [0])",Marketing,,2017-09-10,dashelitez,68,510,85,-442,0,0,165,0
+"*Introducing Dash to Serbian IT community through Startup Grind*
+     (Details | Comments [17])",Marketing,,2017-09-11,nebojsa,879,48,18,831,1,1,21.47,21.47
+"*Make a Paid Dash Course A Free Dash Course For All*
+     (Details | Comments [23])",Marketing,,2017-09-12,AArellanes,809,53,46,756,1,1,25,25
+"*Dash Roadshow in Ghana, West Africa*
+     (Details | Comments [51])",Events,,2017-09-12,cryptolib,889,127,24,762,3,3,15,45
+"*Continuation funding - Understanding the barriers to adoption of Dash by 
+UK businesses and merchants in the Gold and Jewellery Sector (Phase 2)*
+     (Details | Comments [30])",Research,,2017-09-13,CaptAhab,820,170,44,650,3,3,42.87,128.61
+"*DashMasternodeTool - development boost*
+     (Details | Comments [44])",Support/Docs,Masternode-aid,2017-09-16,Bertrand256,1093,5,4,1088,2,2,66,132
+"*mysticdash-pvc*
+     (Details | Comments [0])",Marketing,sponsorship,2017-09-16,coingun,206,368,85,-162,0,0,87,0
+"*Niche Market Trade Shows - POS Vendors*
+     (Details | Comments [23])",Events,,2017-09-16,joemoraca,655,111,30,544,1,1,165,165
+"*Team Morocco For Dash School In Arabic And Local Promotion*
+     (Details | Comments [118])",Marketing,,2017-09-16,Salimess,804,89,26,715,1,1,39,39
+"*DashfortheWin*
+     (Details | Comments [0])",Marketing,,2017-09-17,bchamz ,379,270,61,109,0,0,55,0
+"*The-biggest-billboard-add-in-the-Baltics*
+     (Details | Comments [0])",Marketing,,2017-09-17,rullikas ,210,394,77,-184,0,0,132,0
+"*PrivateSend-De-Anonymization-Contest*
+     (Details | Comments [0])",Marketing,,2017-09-20,DashDude,524,317,147,207,0,0,98.75,0
+"*DASHBRAZILMARKETINGOUTREACH*
+     (Details | Comments [0])",Marketing,,2017-09-20,studioz,359,190,146,169,0,0,75,0
+"*DASH Kuva Project - Launching Dash in Zimbabwe*
+     (Details | Comments [68])",Adoption,,2017-09-20,kuvateam,840,337,31,503,3,3,565,1695
+"*DASH 101 ?�ï�¿�½�Ã�¢???? Video Series & PDF in English, Spanish and German*
+     (Details | Comments [28])",Marketing,,2017-09-20,essra,714,113,65,601,1,1,150,150
+"*Dash for Manila*
+     (Details | Comments [34])",Marketing,,2017-09-20,12god,738,186,87,552,0,1,78.27,0
+"*Proposal: 36  Dash ATM*
+     (Details | Comments [33])",Adoption,mistake,2017-09-20,ThirtySix,900,64,1,836,0,1,1625.49,0
+"*Marketing & Communication (October)*
+     (Details | Comments [29])",Marketing,,2017-09-21,babygiraffe,999,25,6,974,1,1,524.55,524.55
+"*North_American_DASH_ATM_Network*
+     (Details | Comments [0])",Marketing,,2017-09-21,PhilaDASHia,49,481,28,-432,0,0,640,0
+"*PLEASE VOTE DOWN*
+     (Details | Comments [9])",Misc,mistake,2017-09-21,ThirtySix,808,325,12,483,0,1,343.39,0
+"*Dash Integration @ ?�ï�¿�½�Ã�¢????The House of Nakamoto?�ï�¿�½�Ã�¢???? in Vienna (incl. ATM)*
+     (Details | Comments [43])",Integration,,2017-09-22,essra,888,59,40,829,3,3,38,114
+"*Continuation funding ?�ï�¿�½�Ã�¢???? Dash Radio Advertising, 170 stations*
+     (Details | Comments [19])",Marketing,,2017-09-22,medgeftl,671,38,23,633,1,1,40,40
+"*Proposal: Dash  CannTrade*
+     (Details | Comments [10])",Adoption,,2017-09-23,AdamHolub,786,20,21,766,1,1,627,627
+"*Introduction and Dash Giveaway to New Users*
+     (Details | Comments [35])",Marketing,,2017-09-23,Tron,940,93,29,847,7,7,5,35
+"*Sponsorship of Irish Pubs Global Awards*
+     (Details | Comments [19])",Marketing,sponsorship,2017-09-24,operaincubator,718,82,36,636,1,1,175,175
+"*Caracas - Venezuela 1rst conference reposition*
+     (Details | Comments [34])",Events,,2017-09-25,algodonfranelas,740,37,35,703,1,1,68,68
+"*DASH Sponsorship of Stanford University?�ï�¿�½�Ã�¢????s Annual Economic Summit*
+     (Details | Comments [11])",Events,sponsorship,2017-09-25,campbell,775,37,19,738,1,1,365,365
+"*Changing the World Bit By Bit: Revolutionizing the STEM Education System*
+     (Details | Comments [15])",Marketing,sponsorship,2017-09-26,August,680,142,39,538,1,1,131,131
+"*Dash-Lounge-in-Vienna-Austria*
+     (Details | Comments [0])",Adoption,,2017-09-28,,327,323,12,4,0,0,454,0
+"*Proposal:?�ï�¿�½�Ã�¢???? ?�ï�¿�½�Ã�¢????36?�ï�¿�½�Ã�¢???? ?�ï�¿�½�Ã�¢?????? ?�ï�¿�½�Ã�¢????Dash?�ï�¿�½�Ã�¢???? ?�ï�¿�½�Ã�¢????ATM?�ï�¿�½�Ã�¢???? ?�ï�¿�½�Ã�¢????&?�ï�¿�½�Ã�¢???? ?�ï�¿�½�Ã�¢????Sponsorships*
+     (Details | Comments [7])",Adoption,,2017-10-01,ThirtySix,829,8,7,821,1,1,1973.88,1973.88
+"*three-raids-liberate-fourty-kids*
+     (Details | Comments [0])",Misc,,2017-10-07,,27,591,2,-564,0,0,3500,0
+"*The Dash Hardware Wallet - Phase 1*
+     (Details | Comments [0])",Integration,,2017-10-09,roland,119,356,24,-237,0,0,343,0
+"*build_idac*
+     (Details | Comments [0])",Marketing,,2017-10-10,,0,425,15,-425,0,0,1138,0
+"*Twitter Ads Campaign to Promote Dash Review [Published!]*
+     (Details | Comments [31])",Marketing,,2017-10-10,berken34957,660,90,17,570,1,1,10,10
+"*DASH Silver Sponsorship of Texas Bitcoin Conference*
+     (Details | Comments [30])",Events,sponsorship,2017-10-13,Danny_Somthin,716,14,19,702,1,1,20,20
+"*Summary Reporting and Commentary on All Dash Proposals on a Monthly Basis 
+by the Mason Brothers*
+     (Details | Comments [65])",Support/Docs,,2017-10-15,craigmason,916,134,27,782,3,3,20,60
+"*Caracas - Venezuela: 2nd and 3rd conference*
+     (Details | Comments [37])",Events,,2017-10-15,algodonfranelas,895,34,55,861,2,2,73,146
+"*DASH Global Meetups Around the world*
+     (Details | Comments [100])",Events,,2017-10-16,JZA,600,99,29,501,1,1,120,120
+"*DASH @ EURO FINANCE TECH 2017 in Frankfurt*
+     (Details | Comments [33])",Events,,2017-10-17,essra,704,27,25,677,1,1,110,110
+"*Dash Serbia November and December Activities*
+     (Details | Comments [11])",Marketing,,2017-10-17,nebojsa,631,14,16,617,1,1,88,88
+"*DASH @ FintechWeek & Fintech Startup Weekend*
+     (Details | Comments [28])",Events,,2017-10-18,essra,684,24,41,660,1,1,103,103
+"*The Crypto Show Sponsorship Renewal / Dash Cares / Remittance ATM Plan*
+     (Details | Comments [49])",Marketing,,2017-10-19,Danny_Somthin,840,251,84,589,6,6,90,540
+"*Core Team Compensation*
+     (Details | Comments [20])",Core Dev,,2017-10-23,babygiraffe,834,29,12,805,1,1,1130.16,1130.16
+"*Evolution-Marketing*
+     (Details | Comments [0])",Marketing,,2017-10-23,srolinson ,199,533,72,-334,0,0,2559,0
+"*Trudatum - bringing Dash to large corporates*
+     (Details | Comments [0])",Integration,,2017-10-24,Coinfirm,155,286,111,-131,0,0,550,0
+"*Upscale Bitcart and Festy: Going Global*
+     (Details | Comments [0])",Integration,,2017-10-24,operaincubator,238,499,38,-261,0,0,1201,0
+"*Bit To Byte: Introducing Dash to Thousands of Students*
+     (Details | Comments [44])",Marketing,sponsorship,2017-10-25,August,1022,309,30,713,3,3,198,594
+"*tallinn-blockchain-conf*
+     (Details | Comments [0])",Events,mistake,2017-10-26,rullikas ,2,7,0,-5,0,0,47,0
+"*DASH Diamond Sponsorship of Tallinn Blockchain conference 4-5 December '17*
+     (Details | Comments [19])",Events,sponsorship,2017-10-27,rullikas,584,32,14,552,1,1,47,47
+"*General Bytes: Making Dash a First Class Citizen*
+     (Details | Comments [34])",Integration,,2017-10-27,greencandle,1046,66,13,980,3,3,60,180
+"*Bitcart-and-Festy-Development-Roadmap*
+     (Details | Comments [0])",Integration,,2017-10-28,operaincubator ,509,531,59,-22,0,0,406,0
+"*Evolution_Offers_and_Promotions_Platform*
+     (Details | Comments [0])",Marketing,mistake,2017-11-01,srolinson ,613,449,21,164,0,0,845,0
+"*World of Internet Business - Weekly video overview of Dash cryptocurrency 
+news in Russian and much more*
+     (Details | Comments [36])",Marketing,news,2017-11-04,JulinGYS,827,170,8,657,5,6,16,80
+"*Continued funding: Vlogs, Conferences and News on DASH*
+     (Details | Comments [16])",Marketing,,2017-11-04,sm,762,169,52,593,5,6,21,105
+"*Dash Documentary*
+     (Details | Comments [99])",Marketing,,2017-11-04,DashDocumentary,913,394,15,519,5,6,157,785
+"*DASH to Sponsor Anarchapulco 2018!*
+     (Details | Comments [26])",Events,sponsorship,2017-11-04,juangalt,929,0,16,929,1,1,18,18
+"*Teachers for Liberty and Economic Freedom Chapter of CLE-Ghana for Dash*
+     (Details | Comments [60])",Marketing,sponsorship,2017-11-08,cryptolib,722,124,21,598,1,1,51,51
+"*Let millions of Chinese investors on Huobi invest Dash*
+     (Details | Comments [174])",Marketing,,2017-11-08,huobipro,1146,210,82,936,1,1,1005,1005
+"*IDAC_Dash_Only_Exchange*
+     (Details | Comments [0])",Integration,,2017-11-10,IDAC_io ,2,653,18,-651,0,0,3029,0
+"*DASH-Satellites-Demonstration*
+     (Details | Comments [0])",Integration,,2017-11-13,gilemon,102,552,125,-450,0,0,46,0
+"*Dash Integration @ Coinfinity and Bitcoinbon*
+     (Details | Comments [64])",Integration,,2017-11-15,essra,711,69,27,642,1,1,99,99
+"*Bringing Dash to the South Asian Freelancing Industry : An Accessibility, 
+Research & Education Project*
+     (Details | Comments [23])",Research,,2017-11-15,GauravGupta,812,144,8,668,2,2,88,176
+"*Dash.red: December 2017 - February 2018*
+     (Details | Comments [47])",Marketing,,2017-11-17,ec1warc1,678,132,21,546,3,3,36,108
+"*DASHGlobalNews-2nd*
+     (Details | Comments [0])",Marketing,,2017-11-18,JZA,151,615,62,-464,0,0,107,0
+"*Dash and ASU*
+     (Details | Comments [74])",Marketing,sponsorship,2017-11-20,boscovic,736,270,54,466,1,1,793,793
+"*""Border-Free-Love"" | A Dash Evolution Live-Action  VFX Commercial | 2 
+Million views Over 6 Months*
+     (Details | Comments [48])",Marketing,,2017-11-21,Pieter_Eralith,808,201,30,607,4,4,145.9,583.6
+"*Dash Watch*
+     (Details | Comments [36])",Support/Docs,,2017-11-21,paragon,982,93,3,889,3,3,70,210
+"*Scaling Up Publicity with Amanda  PMBC*
+     (Details | Comments [86])",Marketing,,2017-11-21,amanda_b_johnson,1149,34,18,1115,1,1,48,48
+"*Dash Hive*
+     (Details | Comments [52])",Governance,,2017-11-22,rion,628,161,39,467,1,1,5,5
+"*Education-based marketing at University (Germany)*
+     (Details | Comments [27])",Marketing,,2017-11-22,MarOku,945,68,26,877,3,3,16,48
+"*PEER Summit Powder Mountain January 5-7, 2018 and Future of Money in San 
+Francisco*
+     (Details | Comments [26])",Events,,2017-11-22,campbell,687,95,14,592,1,1,85,85
+"*DappDapp-Dash-Messaging-Eco-System*
+     (Details | Comments [0])",Integration,,2017-11-22,WillDD ,106,435,95,-329,0,0,920,0
+"*Bringing Festy & Dash to the public - Irish Pubs Global Market*
+     (Details | Comments [78])",Marketing,sponsorship,2017-11-23,operaincubator,835,324,15,511,3,3,198,594
+"*The #DASH4Nigeria Project*
+     (Details | Comments [27])",Marketing,,2017-11-23,djcrypt0,801,68,1,733,1,1,45,45
+"*HWYBrandRoadTripPoweredByDash*
+     (Details | Comments [0])",Marketing,,2017-11-23,MarkHWYBrand,338,273,25,65,0,0,260,0
+"*Dash Aerosports - Promoting Dash to 200,000 People*
+     (Details | Comments [338])",Marketing,sponsorship,2017-11-24,greencandle,881,378,95,503,1,1,1366,1366
+"*Introduction of Dash to Estonia*
+     (Details | Comments [22])",Marketing,,2017-11-25,Hando,788,73,16,715,1,1,21,21
+"*koodaa*
+     (Details | Comments [0])",Adoption,,2017-11-25,koodaa ,50,385,49,-335,0,0,118,0
+"*Dash Cycling Team*
+     (Details | Comments [29])",Marketing,sponsorship,2017-12-04,PabloS,693,86,18,607,1,1,16,16
+"*DASH To Sponsor ??HardFork??, World??s Premiere Blockchain TV Series*
+     (Details | Comments [123])",Marketing,sponsorship,2017-12-04,hardfork-series,870,253,51,617,2,2,405,810
+"*Colibit: [UPDATED] Dash Support to Venezuela Exchange [UPDATED]*
+     (Details | Comments [112])",Adoption,,2017-12-08,greencandle,753,265,68,488,0,1,194,0
+"*International-mass-marketing-using-sms*
+     (Details | Comments [0])",Marketing,,2017-12-09,dashmaximalist ,342,282,90,60,0,0,250,0
+"*Bring Dash to Global Community - updated*
+     (Details | Comments [29])",Events,,2017-12-10,manhuichi,748,110,20,638,2,2,44,88
+"*?�ï�¿�½�Â�«Territory of DASH. Part 1?�ï�¿�½�Â�». Presentation Dash in Belarus*
+     (Details | Comments [26])",Marketing,,2017-12-10,ikeaman,740,102,20,638,3,3,26,78
+"*Dash Leopards Soccer*
+     (Details | Comments [31])",Marketing,sponsorship,2017-12-12,DashingDude,640,80,17,560,1,1,20,20
+"*IDAC_Dash_onboarding_platform*
+     (Details | Comments [0])",Marketing,,2017-12-14,IDAC_io,228,463,16,-235,0,0,194,0
+"*INTRODUCING DASH TO BUSINESSES IN GHANA,WEST AFRICA.*
+     (Details | Comments [50])",Adoption,,2017-12-15,Zambang,863,86,9,777,3,3,20,60
+"*Dash Enters The Music Space: Exclusive Platform Integration Serving 
+Thousands of Artists / 3-day ""Only-Spend-Dash"" Music Fest / Publicity Blitz 
+/ 28,001 - 41,002 Dash Acquisitions*
+     (Details | Comments [69])",Events,,2017-12-15,feedbands,782,134,29,648,2,2,268,536
+"*Dash In-Flight Media Campaign - jetBlue, United & American Airlines*
+     (Details | Comments [28])",Marketing,,2017-12-17,Doewapapus,933,28,18,905,3,3,126,378
+"*DASH FOR SOUTHEAST ASIA FX TRADER*
+     (Details | Comments [30])",Adoption,,2017-12-17,Rocketpay,839,52,37,787,3,3,130,390
+"*Dash Texas*
+     (Details | Comments [33])",Marketing,,2017-12-17,bchamz,724,53,26,671,1,1,18,18
+"*HWY Road Trip Powered By Dash ""amended & resubmitted""*
+     (Details | Comments [21])",Marketing,,2017-12-19,MarkHWYBrand,683,67,2,616,1,1,84,84
+"*Amanda & PMBC January Funding  December Update*
+     (Details | Comments [21])",Marketing,,2017-12-20,amanda_b_johnson,858,68,1,790,1,1,26,26
+"*Dash for the Belt with Rory Macdonald*
+     (Details | Comments [48])",Marketing,sponsorship,2017-12-21,greencandle,835,236,8,599,1,1,330,330
+"*MyDashWallet: Easy Wallet Creation, Management, Tipping and Hardware 
+Support*
+     (Details | Comments [24])",Non-Core Dev,,2017-12-22,DeltaEngine,792,92,8,700,1,1,25,25
+"*DASH Embassy D-A-CH Q1/2018*
+     (Details | Comments [72])",Marketing,,2017-12-22,DASH_Embassy_DACH,750,145,29,605,1,1,207,207
+"*Google Ads - Facebook Ads - Reddit Ads for Dash*
+     (Details | Comments [31])",Marketing,,2017-12-23,feedbands,733,75,20,658,1,1,36,36
+"*Strike Social (Inc. 500 No.17) - Major Dash Integration with Global 
+Press/Marketing/Client Support*
+     (Details | Comments [16])",Adoption,,2017-12-23,pmckenna12,612,62,16,550,1,1,100,100
+"*Ben Swann??s Reality Check Sponsorship & Ambassador*
+     (Details | Comments [229])",Marketing,sponsorship,2017-12-24,Ben_Swann,1011,244,20,767,3,3,800,2400
+"*Cannabis Genomic Blockchain on DASH and CannMed 2018 Partnership*
+     (Details | Comments [35])",Marketing,,2017-12-24,KevinMcKernan,993,102,36,891,4,10,10,40
+"*Building Dash Community in Tallinn, Estonia*
+     (Details | Comments [22])",Marketing,,2017-12-26,rullikas,651,22,22,629,1,1,39,39
+"*Liberty Forum Sponsorship and Dash Exclusivity*
+     (Details | Comments [49])",Marketing,sponsorship,2017-12-27,the_desert_lynx,700,3,12,697,1,1,21,21
+"*Cryptolifex (Venezuela Exchange VEF/Dash - Dash/VEF)*
+     (Details | Comments [62])",Adoption,,2018-01-02,Cryptolifex,690,46,25,644,1,1,18,18
+"*DashRadar development*
+     (Details | Comments [27])",Support/Docs,,2018-01-03,Antti-Kaikkonen,606,37,26,569,1,1,21,21
+"*Colibit: Enabling a free Dash/VEF market in Venezuela*
+     (Details | Comments [31])",Adoption,,2018-01-06,greencandle,673,91,20,582,1,1,74.02,74.02
+"*Dash Boost: Expanding the Treasury's Reach*
+     (Details | Comments [70])",Governance,,2018-01-07,greencandle,704,210,6,494,1,1,158.01,158.01
+"*StudiesConsultationToolsForDashVenezuela*
+     (Details | Comments [0])",Marketing,,2018-01-07,Coinspreesrl,128,382,37,-254,0,0,44,0
+"*DASHCYCLINGAFRICA*
+     (Details | Comments [0])",Marketing,sponsorship,2018-01-09,AfricanB ,35,458,52,-423,0,0,341,0
+"*Deploy At Scale: Google Ads / Reddit Ads / Facebook Ads Phase II (plus ads 
+on Yahoo Finance, Techcrunch, Gizmodo, CNBC, Wired, Fortune, Forbes, Digg 
+and more)*
+     (Details | Comments [0])",Marketing,,2018-01-10,feedbands,58,493,24,-435,0,0,768,0
+"*When the minimum price of an average transaction rises above 1 cent, 
+should we lower the transaction fee?*
+     (Details | Comments [40])",Governance,,2018-01-10,plateglassarmour,623,48,116,575,1,1,5,5
+"*Bringing Dash to the Poker World*
+     (Details | Comments [16])",Marketing,,2018-01-11,JonathanLevy,755,40,7,715,3,3,27,81
+"*Tristar Gym: 2018 Dash Partnership*
+     (Details | Comments [0])",Marketing,mistake,2018-01-11,greencandle,78,369,54,-291,0,0,1,0
+"*gc-tristar*
+     (Details | Comments [0])",Marketing,sponsorship,2018-01-11,greencandle,534,245,70,289,0,0,122.01,0
+"*First Brick&Mortar Crypto Poker Tourney*
+     (Details | Comments [34])",Events,,2018-01-12,BigStackBri,649,54,22,595,1,1,33,33
+"*ReinventingDecentralizedChallenges*
+     (Details | Comments [0])",Marketing,mistake,2018-01-12,nebojsa ,0,0,0,0,0,0,212,0
+"*DASH at South by Southwest 2018 (SXSW 2018) - 6 person team*
+     (Details | Comments [30])",Events,,2018-01-12,Cryptobadger,588,44,20,544,1,1,115,115
+"*DASH Payment system expansion to Global markets - UK*
+     (Details | Comments [20])",Integration,,2018-01-13,dmitriybtc,734,91,14,643,3,3,18,54
+"*Dash Hackathon Sponsorship at SF Hacks ??18*
+     (Details | Comments [8])",Events,sponsorship,2018-01-14,arjun-govindjee,676,59,6,617,1,1,27,27
+"*Documentary Showcasing Dash to Female Audience*
+     (Details | Comments [12])",Marketing,,2018-01-14,InstantKarmaFund,664,119,7,545,1,1,22,22
+"*Introducing Dash to the International Robotics/STEM Community*
+     (Details | Comments [9])",Marketing,,2018-01-15,redbirdrobotics,663,19,8,644,1,1,17,17
+"*(A legally binding agreement has been signed) Dash Expansion via 
+Partnerships and a Gaming Platform (Escrow by Dash Core)*
+     (Details | Comments [14])",Marketing,,2018-01-15,nebojsa,609,63,84,546,1,1,212,212
+"*DASH-US-Tax-Guide*
+     (Details | Comments [0])",Support/Docs,Masternode-aid,2018-01-16,AttorneyJohnFlynn,411,319,33,92,0,0,26,0
+"*DASH_in_500_stores_in_Portugal*
+     (Details | Comments [0])",Adoption,mistake,2018-01-16,mquintas ,179,454,39,-275,0,0,156,0
+"*BitPlus: Expanding Merchant Adoption*
+     (Details | Comments [0])",Adoption,,2018-01-16,greencandle,544,339,71,205,0,0,1008.01,0
+"*Marketing & Communication*
+     (Details | Comments [11])",Marketing,,2018-01-17,babygiraffe,802,7,2,795,1,1,421.69,421.69
+"*ALL ABOUT DASH Resource channel for the creation of a Latin American 
+audience.*
+     (Details | Comments [28])",Marketing,,2018-01-17,All_About_Dash,865,15,27,850,3,3,19,57
+"*Professional Recruiting*
+     (Details | Comments [7])",Organization,,2018-01-17,babygiraffe,864,7,2,857,1,1,137.98,137.98
+"*Dash Internship Program and SE Asia Representative Office*
+     (Details | Comments [51])",Research,,2018-01-17,DashThailand,706,141,25,565,1,1,460,460
+"*DASHSocialMediaMarketingAndEcosystem*
+     (Details | Comments [0])",Marketing,,2018-01-18,Ultimatecrypto ,323,281,57,42,0,0,28,0
+"*Increase Dash??s awareness by advertising on YouTube*
+     (Details | Comments [49])",Marketing,,2018-01-20,pmckenna12,792,254,46,538,2,3,300,600
+"*Dash powered real-time strategy browser game. Make Dash a contender in 
+Cryptogames.*
+     (Details | Comments [36])",Non-Core Dev,,2018-01-21,monachilada,803,208,64,595,3,3,87,261
+"*Continue Funding: Google Ads / Facebook Ads / Reddit Ads for Dash - 
+Continue #DashNation Global Community Translation*
+     (Details | Comments [36])",Marketing,,2018-01-21,feedbands,693,44,11,649,1,1,87,87
+"*FinTech online radio R? which is promote the benefits of DASH*
+     (Details | Comments [33])",Marketing,,2018-01-21,Alexey_Danilin,698,125,57,573,2,3,35,70
+"*Amanda PR Funding for February  January Update*
+     (Details | Comments [19])",Marketing,,2018-01-22,amanda_b_johnson,913,78,2,835,1,1,28,28
+"*Trusted YouTube Stars & Personalities Recommend Dash to Their 1.6 Million 
+Viewers*
+     (Details | Comments [23])",Marketing,,2018-01-22,appmatch,674,147,34,527,3,3,53,159
+"*Dash Adoption Docu Series: Zimbawe ft. KuvaCash*
+     (Details | Comments [14])",Marketing,,2018-01-22,Frame48,644,39,21,605,1,1,45,45
+"*DASHOP.IO ?? Online Shopping Marketplace*
+     (Details | Comments [52])",Integration,,2018-01-22,InstantKarmaFund,953,383,49,570,3,5,81,243
+"*MultiGP-Drone-Racing-*
+     (Details | Comments [0])",Marketing,sponsorship,2018-01-23,DEMOincubator_Escrow,191,260,42,-69,0,0,269.5,0
+"*UK Fiat To Dash Exchange & Marketing Integration*
+     (Details | Comments [74])",Integration,,2018-01-24,AshFrancis,833,155,67,678,3,8,25,75
+"*Dash4Change*
+     (Details | Comments [0])",Marketing,mistake,2018-01-25,thearcanebear ,23,517,48,-494,0,0,733,0
+"*5TH DASH CONFERENCE IN CARACAS - VENEZUELA*
+     (Details | Comments [28])",Events,,2018-01-25,algodonfranelas,686,14,11,672,1,1,70,70
+"*Interactivetalkshowwithcelebrityhosts*
+     (Details | Comments [0])",Marketing,,2018-01-25,Hando ,52,246,35,0,0,0,178,0
